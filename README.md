@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goddie-Owiny
 - 👀 I’m interested in Becoming a senior Software developer
-- 🌱 I’m currently learning JavaScript as my first programming language. As usual, I have a little skills on HTML and CSS.
+- 🌱 I’m currently learning JavaScript as my first programming language. I have a little skills on HTML and CSS.
 - 💞️ I am looking forward for collaborations inorder to help me improve my Programming skills for my Dream Job
 - 📫 How to reach me .......
 
